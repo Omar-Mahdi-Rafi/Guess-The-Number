@@ -1,4 +1,4 @@
-# Guess-The-Number
+# Guess-Your-Number
 It is a browser based fun interactive game made with HTML, CSS &amp; JS where the user has to guess the number and earn points.  
 
 ## Visit site 
